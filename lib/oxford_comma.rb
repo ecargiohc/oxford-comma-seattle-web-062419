@@ -4,9 +4,9 @@ def oxford_comma(strings_array)
 end
 
 
-return ["kiwi"].join 
+# return ["kiwi"].join 
   
-  return ["kiwi", "durian"].join("and")
+#   return ["kiwi", "durian"].join("and")
   
-  #return ["kiwi", "durian", "starfruit"].join()
-  # 
+#   #return ["kiwi", "durian", "starfruit"].join()
+#   # 
