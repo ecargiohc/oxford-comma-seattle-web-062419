@@ -4,7 +4,7 @@ def oxford_comma(strings_array)
   elsif strings_array.length >=  3
     strings_array.insert(-2, "and")
     string = strings_array.join(" ")
-    return string
+    return string.insert(", ")
   else
     strings_array.join(" ,")
   end
